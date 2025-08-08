@@ -1,0 +1,10 @@
+---
+description: Enforce that all work is grounded in the PRD; require mapping changes to PRD requirements and update PRD on any scope/architecture changes.
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+### Project Standards: Ground everything in the PRD
+
+PRD.md
